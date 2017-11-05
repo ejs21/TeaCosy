@@ -1,0 +1,50 @@
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  margin: 0;
+}
+
+/* Header */
+
+header {
+  background-color: black;
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  width: 100%;
+  position: fixed;
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 50px;
+}
+
+header nav {
+  width: 400px;
+  display: flex;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+
+header nav span {
+  margin-right: 10px;
+}
+
+header nav a {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  text-decoration: underline;
+}
