@@ -75,11 +75,15 @@ header nav a {
 
 /* Tea Container */
 
+.tea-month {
+  width: 1000px;
+  margin: 50px auto;
+}
+
 .teas {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: space-around;
+  justify-content: center;
 }
 
 .tea img {
@@ -88,5 +92,5 @@ header nav a {
 }
 
 .tea {
-  margin: 10 10;
+  margin: 10px 10px;
 }
