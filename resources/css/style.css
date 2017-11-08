@@ -20,7 +20,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: -28px; 
+  margin-top: -28px;
 }
 
 .logo {
@@ -49,6 +49,13 @@ header nav a {
   font-size: 22px;
   color: seashell;
   text-decoration: underline;
+}
+
+/* Content */
+
+.content {
+  position: relative;
+  top: 42px; 
 }
 
 /* Mission */
