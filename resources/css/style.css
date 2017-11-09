@@ -91,8 +91,13 @@ header nav a {
   width: 300px;
 }
 
+.tea h4 {
+  padding: 10px 0 0 0;
+  margin: 0;
+}
+
 .tea {
-  margin: 10px 10px;
+  margin: 10px 15px; 
 }
 
 /* Locations */
@@ -135,7 +140,7 @@ header nav a {
 
 .contact h2, .contact h5 {
   margin: 0px;
-  padding: 0px; 
+  padding: 0px;
 }
 
 .contact {
