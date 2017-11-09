@@ -1,5 +1,4 @@
 # TeaCosy
 
 Issues
-
-- Not sure what's the best way do no navigation in the header.
+- NAVIGATION: When using the on-page navigation, it doesn't go to the 'beginning' of the div/id but a bit below it. Why is this and how to fix this? 
