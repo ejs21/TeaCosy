@@ -133,10 +133,16 @@ header nav a {
 
 /* Footer */
 
+.contact h2, .contact h5 {
+  margin: 0px;
+  padding: 0px; 
+}
+
 .contact {
   height: 200px;
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
 }
 
 .copyright {
