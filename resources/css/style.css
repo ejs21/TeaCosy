@@ -54,7 +54,7 @@ header nav a {
 
 .content {
   position: relative;
-  top: 42px;
+  top: 70px;
 }
 
 /* Mission */
@@ -97,7 +97,7 @@ header nav a {
 }
 
 .tea {
-  margin: 10px 15px; 
+  margin: 10px 15px;
 }
 
 /* Locations */
@@ -137,6 +137,11 @@ header nav a {
 }
 
 /* Footer */
+
+footer {
+  position: relative;
+  top: 70px; 
+}
 
 .contact h2, .contact h5 {
   margin: 0px;
