@@ -130,3 +130,16 @@ header nav a {
   flex-direction: column;
   justify-content: space-around;
 }
+
+/* Footer */
+
+.contact {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.copyright {
+  margin-left: 20px;
+  text-align: left;
+}
